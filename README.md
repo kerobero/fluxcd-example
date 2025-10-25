@@ -1,6 +1,6 @@
-# FluxCD Example with Docker Desktop Kubernetes
+# FluxCD Example with  Kubernetes
 
-This repository contains a basic example of using FluxCD with a  Kubernetes cluster.
+This repository contains a basic example of using FluxCD with a Kubernetes cluster.
 
 ## Prerequisites
 
@@ -35,4 +35,5 @@ This repository contains a basic example of using FluxCD with a  Kubernetes clus
 5. Check the status of your Kustomizations:
    ```bash
    flux get kustomizations
+
    ```
