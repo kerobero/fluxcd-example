@@ -7,7 +7,7 @@ spec:
   interval: 1m
   url: https://github.com/kerobero/fluxcd-example
   ref:
-    branch: main
+    branch: fix/refactor-configuration
 ---
 apiVersion: kustomize.toolkit.fluxcd.io/v1beta1
 kind: Kustomization
